@@ -1,7 +1,7 @@
 /*
  * Write ID Number onto a MIFARE RFID card using a RFID-RC522 reader
  * -----------------------------------------------------------------------------------------
- * Developed by Uzair Qidwai
+ * Developed by Uzair Qidwai xyz
  */
 
 #include <SPI.h>
